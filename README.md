@@ -4,13 +4,13 @@ I'm a Data Engineer and Data Analyst based in Toronto, Canada, with 6+ years of 
 building ETL/ELT pipelines, cloud data platforms, and BI solutions across Azure, AWS, and
 Snowflake environments.
 
-I work at the intersection of data engineering and business intelligence — designing pipelines
+I work at the intersection of data engineering and business intelligence - designing pipelines
 in Azure Data Factory and SSIS, tuning SQL Server and Snowflake for performance, and building
 Power BI dashboards that people actually trust and use. I also care a lot about the less visible
 parts of the job: data governance, lineage, access control, and documentation that keeps a data
 platform maintainable long after the first version ships.
 
-**Currently:** Data Access Analyst @ Sanofi — working on enterprise data initiatives around how
+**Currently:** Data Access Analyst @ Sanofi - working on enterprise data initiatives around how
 data is structured, transformed, governed, and accessed across business systems.
 
 ### What I work with
