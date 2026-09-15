@@ -21,6 +21,6 @@ data is structured, transformed, governed, and accessed across business systems.
 - **Governance & Security:** RBAC, row-level security, data masking, data lineage
 - **Languages:** Python, SQL, R
 
-### 📫 Reach me
+### Reach me
 - [LinkedIn](https://www.linkedin.com/in/sai-deep-chereddy/)
 - chereddy.saideep@gmail.com
