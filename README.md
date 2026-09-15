@@ -13,7 +13,7 @@ platform maintainable long after the first version ships.
 **Currently:** Data Access Analyst @ Sanofi — working on enterprise data initiatives around how
 data is structured, transformed, governed, and accessed across business systems.
 
-### 🔧 What I work with
+### What I work with
 - **Data Engineering & ETL:** Azure Data Factory, SSIS, PySpark, Spark SQL, dbt
 - **Databases:** SQL Server (T-SQL), Snowflake
 - **Cloud:** Azure (Data Factory, Databricks, Synapse), AWS (S3, Glue, Redshift)
